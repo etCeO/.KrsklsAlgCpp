@@ -1,6 +1,6 @@
-# .KrsklsAlgCpp
+# Kruskal's Algorithm
 
-- A program that takes in an adjacency matrix for a weighted graph and computes its minimum spanning tree (MST) cost with a proposed structure based on Kruskal's algorithm
+- A program that accepts an adjacency matrix representation of a weighted graph and computes the cost of its minimum spanning tree, applying a proposed structure based on Kruskal’s algorithm to efficiently select edges and determine an optimal spanning configuration.
 
 # AUTHOR INFO
 
