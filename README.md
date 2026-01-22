@@ -2,7 +2,7 @@
 
 - A program that accepts an adjacency matrix representation of a weighted graph and computes the cost of its minimum spanning tree, applying a proposed structure based on Kruskal’s algorithm to efficiently select edges and determine an optimal spanning configuration.
 
-# AUTHOR INFO
+## Author Info
 
 - Full Name: Ethan E. Lopez
 - Student ID: 2425516
