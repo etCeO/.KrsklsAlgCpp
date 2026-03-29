@@ -62,11 +62,11 @@ Rules
 
 Example (graph.txt)
 ---
-4
-0 2 5 0
-2 0 3 4
-5 3 0 1
-0 4 1 0
+- 4
+- 0 2 5 0
+- 2 0 3 4
+- 5 3 0 1
+- 0 4 1 0
 
 - This is a graph with 4 vertices and weighted edges between them.
 
