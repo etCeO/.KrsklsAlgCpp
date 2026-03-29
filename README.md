@@ -49,7 +49,7 @@ Example Output (conceptual):
 
 The input file must define an undirected weighted graph using an adjacency matrix.
 
-Expected Structure
+### Expected Structure
 ---
 - First line: integer N (number of vertices)
 - Next N lines: N x N adjacency matrix
@@ -60,7 +60,7 @@ Rules
 3. The matrix is symmetric, reflecting the undirected nature of the graph.
 4. Diagonal elements are 0.
 
-Example (graph.txt)
+### Example (graph.txt)
 ---
 - 4
 - 0 2 5 0
@@ -72,7 +72,7 @@ Example (graph.txt)
 
 ## Implementation Details
 
-Core Algorithm: Kruskal’s Algorithm
+### Core Algorithm: Kruskal’s Algorithm
 ---
 The program is implemented according to the following steps:
 
