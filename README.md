@@ -73,7 +73,7 @@ Rules
 ## Implementation Details
 
 ### Core Algorithm: Kruskal’s Algorithm
----
+
 The program is implemented according to the following steps:
 
 1. Edge Extraction
