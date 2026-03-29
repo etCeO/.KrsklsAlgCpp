@@ -42,8 +42,8 @@ Example Command
 - ./kruskals graph.txt
 
 Example Output (conceptual):
+- The MST Cost is 11.
 - 'graph representation'
-- Total MST Cost: 11
 
 ## Input Format
 
@@ -63,10 +63,11 @@ Rules
 ### Example (graph.txt)
 ---
 - 4
-- 0 2 5 0
-- 2 0 3 4
-- 5 3 0 1
-- 0 4 1 0
+- 0.0 2.0 5.0 0.0
+- 2.0 0.0 3.0 4.0
+- 5.0 3.0 0.0 1.0
+- 0.0 4.0 1.0 0.0
+- END
 
 - This is a graph with 4 vertices and weighted edges between them.
 
